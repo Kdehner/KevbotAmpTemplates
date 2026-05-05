@@ -1,0 +1,9 @@
+[
+    {
+        "ConfigFile": "Config/Settings.txt",
+        "AutoMap": true,
+        "Importable": true,
+        "ConfigType": "ini",
+        "ConfigFormatRegex": "^(?<key>.+?)=(?<value>.*?)$"
+    }
+]

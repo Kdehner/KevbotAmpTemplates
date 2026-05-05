@@ -1,0 +1,9 @@
+[
+    {
+        "Protocol": "TCP",
+        "Port": 6702,
+        "Ref": "ApplicationPort1",
+        "Name": "Game Port",
+        "Description": "DarkMultiPlayer game port"
+    }
+]

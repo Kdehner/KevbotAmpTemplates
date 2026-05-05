@@ -1,0 +1,14 @@
+[
+    {
+        "UpdateStageName": "DMPServer Download",
+        "UpdateSourcePlatform": "All",
+        "UpdateSource": "FetchURL",
+        "UpdateSourceData": "https://spacedock.info/mod/11/DarkMultiPlayer%20Server/download",
+        "UpdateSourceArgs": "DMPServer.zip",
+        "UpdateSourceTarget": "{{$FullRootDir}}",
+        "UnzipUpdateSource": true,
+        "DeleteAfterExtract": true,
+        "OverwriteExistingFiles": false,
+        "SkipOnFailure": false
+    }
+]
